@@ -1,2 +1,2 @@
 # devopslab-infra
-Criação da infraestrutura no GCP
+Criação da infraestrutura no GCP Deploy
